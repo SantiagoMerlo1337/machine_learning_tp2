@@ -1,0 +1,12 @@
+notebook == 6.5.3
+pandas == 1.5.3
+numpy == 1.24.2
+matplotlib == 3.7.1
+seaborn == 0.12.2
+plotly == 5.13.1
+scikit-learn == 1.2.2
+keras == 2.8.0
+tensorflow == 2.8.0
+h5py == 3.8.0
+sklearn-pandas == 2.2.0
+graphviz == 0.14
